@@ -1,6 +1,6 @@
 # Project Title
 
-Practicing Project: Classify Points as "Class A" or "Class B"
+Practicing Project: Classify Points as "Class A" or "Class B" based on PyTorch
 
 ## Description
 
