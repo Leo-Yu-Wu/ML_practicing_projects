@@ -17,4 +17,3 @@ The goal is to classify the data points into two classes:
 - If **Feature 3 (z)** > 30, the label is **Class B**.
 - If **Feature 3 (z)** <= 30 and **Feature 1 (x)** > 30, the label is **Class B**.
 - Otherwise, the label is **Class A**.
-- 
